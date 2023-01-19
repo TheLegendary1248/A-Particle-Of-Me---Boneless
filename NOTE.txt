@@ -1,0 +1,3 @@
+Should I or anyone return to this for any forsaken reason, it's rather important to migrate to URP because unknowing to me, having only followed a Brackey's tutorial, that HDRP is overkill and meant for AAA.
+
+Apologies in advance for such an uninformed decision
